@@ -1,4 +1,4 @@
-<img align="right" src="http://www.repo-board.io/assets/images/mountietocat.png">
+<img align="right" src="http://www.repo-board.io/assets/images/mountietocat.png", width="150">
 # Explorations in Data Science
 ### Spring 2016, Columbia University [Science Honors Program](http://www.columbia.edu/cu/shp/)
 #### Class Repo for Explorations in Data Science Spring 2016
