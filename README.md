@@ -1,7 +1,7 @@
 <img align="right" src="http://www.repo-board.io/assets/images/mountietocat.png", width="200">
 # Explorations in Data Science
-### Spring 2016, Columbia University [Science Honors Program](http://www.columbia.edu/cu/shp/)
-#### Class Repo for Explorations in Data Science Spring 2016
+### Columbia University [Science Honors Program](http://www.columbia.edu/cu/shp/)
+### Spring 2016
 
 #### About this course
 In this course, students (aka, the explorers)  will carry out a series of exploration in data science to learn about statistical thinking principles and data analysis skills used in data science. These explorations will cover topics include but not limited to 
