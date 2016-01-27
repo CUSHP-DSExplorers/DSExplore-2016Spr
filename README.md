@@ -1,4 +1,4 @@
-<img align="right" src="http://www.repo-board.io/assets/images/mountietocat.png", width="250">
+<img align="right" src="http://www.repo-board.io/assets/images/mountietocat.png", width="200">
 # Explorations in Data Science
 ### Spring 2016, Columbia University [Science Honors Program](http://www.columbia.edu/cu/shp/)
 #### Class Repo for Explorations in Data Science Spring 2016
@@ -15,6 +15,9 @@ The classes will be organized to have a lecture component and a hands-on explora
 #### About the instructors
 Jonathan Auerbach - 
 <img align="left" src="http://stat.columbia.edu/wp-content/uploads/connections-images/jonathan-auerbach/jauerbach.jpg" width="150">
+
+
+
 
 Lydia (Yayun) Hsu -
 <img align="left" src="https://octodex.github.com/images/momtocat.png" width="150">
