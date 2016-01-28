@@ -22,4 +22,4 @@ Jonathan Auerbach -
 
 
 Lydia (Yayun) Hsu -
-<img align="left" src="https://octodex.github.com/images/momtocat.png" width="150">
+<img align="left" src="https://octodex.github.com/images/pusheencat.png" width="150">
