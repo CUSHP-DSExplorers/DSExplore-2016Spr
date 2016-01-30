@@ -4,9 +4,9 @@
 ### Spring 2016
 
 #### About this course
-In this course, students (aka, the explorers)  will carry out a series of exploration in data science to learn about statistical thinking principles and data analysis skills used in data science. 
+In this course, our students (aka, the explorers)  will carry out a series of explorations in data science to learn about statistical thinking principles and data analysis skills used in data science. 
 
-These explorations will cover topics include but not limited to 
+These explorations will cover topics including but not limited to 
 - descriptive statistics, 
 - sampling and estimation, 
 - association, 
