@@ -16,7 +16,7 @@ The classes will be organized to have a lecture component and a hands-on explora
 
 #### About the instructors
 
-Jonathan Auerbach - 
-Lydia (Yayun) Hsu -
-<img align="left" src="http://stat.columbia.edu/wp-content/uploads/connections-images/jonathan-auerbach/jauerbach.jpg" height="150">
-<img align="left" src="https://octodex.github.com/images/pusheencat.png" height="150">
+Jonathan Auerbach - <img align="left" src="http://stat.columbia.edu/wp-content/uploads/connections-images/jonathan-auerbach/jauerbach.jpg" height="150">
+
+Lydia (Yayun) Hsu - <img src="https://octodex.github.com/images/pusheencat.png" height="150">
+
