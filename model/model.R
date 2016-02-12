@@ -14,6 +14,24 @@ dem <- read.csv("~/Documents/DSExplore-2016Spr/model/democrat.csv")
 library("reshape2")
 library("ggplot2")
 
+ggplot(dem)+
+  aes(Poll,Clinton)+
+  geom_boxplot()
+
+ggplot(dem)+
+  aes(Poll,Clinton)+
+  geom_boxplot() +
+  coord_flip()
+
+anova(lm(Clinton~Poll,data=dem))
+
+ggplot(dem)+
+  aes(Poll,Clinton,fill=Type)+
+  geom_boxplot() +
+  coord_flip()
+
+anova(lm(Clinton~Poll+Type,data=dem))
+
 ggplot(rep[rep$Type!="A",])+
   aes(Type,Trump) +
   geom_boxplot()
@@ -119,5 +137,5 @@ ggplot(data=dem2)+
   geom_smooth(aes(x=Start,y=Sanders),method="lm",color="blue",se=FALSE,
               formula=y~poly(x,3))
 
-table(dem$Poll)
+
 
