@@ -9,8 +9,8 @@
 #Data from 
 #http://www.realclearpolitics.com/epolls/2016/president/us/2016_republican_presidential_nomination-3823.html
 
-rep <- read.csv("~/Documents/DSExplore-2016Spr/republican.csv")
-dem <- read.csv("~/Documents/DSExplore-2016Spr/democrat.csv")
+rep <- read.csv("~/Documents/DSExplore-2016Spr/model/republican.csv")
+dem <- read.csv("~/Documents/DSExplore-2016Spr/model/democrat.csv")
 library("reshape2")
 library("ggplot2")
 
@@ -119,4 +119,5 @@ ggplot(data=dem2)+
   geom_smooth(aes(x=Start,y=Sanders),method="lm",color="blue",se=FALSE,
               formula=y~poly(x,3))
 
+table(dem$Poll)
 
