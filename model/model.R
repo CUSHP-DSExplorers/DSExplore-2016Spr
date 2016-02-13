@@ -8,11 +8,12 @@
 
 #Data from 
 #http://www.realclearpolitics.com/epolls/2016/president/us/2016_republican_presidential_nomination-3823.html
-
-rep <- read.csv("~/Documents/DSExplore-2016Spr/model/republican.csv")
-dem <- read.csv("~/Documents/DSExplore-2016Spr/model/democrat.csv")
+library("RCurl")
 library("reshape2")
 library("ggplot2")
+
+rep <- read.csv(text = getURL("https://raw.githubusercontent.com/CUSHP-DSExplorers/DSExplore-2016Spr/master/model/republican.csv"))
+dem <- read.csv(text=getURL("https://raw.githubusercontent.com/CUSHP-DSExplorers/DSExplore-2016Spr/master/model/democrat.csv"))
 
 ggplot(dem)+
   aes(Poll,Clinton)+
